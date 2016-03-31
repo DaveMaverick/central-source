@@ -14,7 +14,7 @@ We love OpenSource but the GNU Freesoftware philosophy fits better to our Projec
 * Everybody has the Freedom to use and modify our work as you want (within the rules the GNU GPL license defines)
 * We follow a TDD and Regressiontesting approach to verify the code and scaleability.
 * Embedded LUA-Scripting within the Core-Serversystem to allow custom user Scripts.
-* Providing API's easy to use API' and proper SDK's for C/C++. C#, VB-Script and LUA
+* Providing easy to use API' and proper SDK's for C/C++. C#, Delphi/Lazarus, VB-Script and LUA
 
 #### How you can contribute?
 * You can test the stability of the Software, hunt and trackdown bugs
